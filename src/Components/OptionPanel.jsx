@@ -1,4 +1,3 @@
-import React from 'react'
 import './OptionPanel.css'
 import Options from './Options.jsx'
 

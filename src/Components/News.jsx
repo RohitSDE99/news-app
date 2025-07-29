@@ -1,4 +1,3 @@
-import React from "react";
 import "./News.css";
 import Globe from "../Assets/globeImage.webp";
 import { FiSearch } from "react-icons/fi";
